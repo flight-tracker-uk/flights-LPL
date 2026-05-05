@@ -25,79 +25,151 @@ jobs:
       max-parallel: 10
       matrix:
         destination:
+
           - ACE
+
           - AGA
+
           - AGP
+
           - ALC
+
           - AMS
+
           - AYT
+
           - BCN
+
           - BER
+
           - BFS
+
           - BGO
+
+          - BHD
+
           - BJV
+
           - BOJ
+
           - BUD
+
           - CDG
+
           - CFU
+
           - DLM
+
           - DUB
+
           - EGC
+
           - FAO
+
           - FCO
+
           - FNC
+
           - FUE
+
           - GDN
+
           - GVA
+
           - HER
-          - HRG
+
           - IAS
+
           - IBZ
+
           - IOM
+
           - JER
+
           - KEF
+
           - KGS
+
           - KRK
+
           - KSC
+
           - KUN
+
           - LCA
+
           - LDY
+
           - LEI
+
           - LIS
+
           - LPA
+
           - MAD
+
           - MAH
+
           - MLA
+
           - MXP
+
           - NAP
+
           - NBE
+
           - NCE
+
           - NOC
+
           - OPO
+
           - ORK
+
           - OSL
+
           - OTP
+
           - PFO
+
           - PMI
+
           - POZ
+
           - PRG
+
           - RAK
+
           - REU
+
           - RHO
+
           - RVN
+
           - SNN
+
           - SOF
+
           - SPU
-          - SSH
+
           - SZG
+
           - SZZ
+
           - TFS
+
           - TIA
+
           - TRN
+
           - VIE
+
           - WAW
+
           - WRO
+
           - ZAD
+
           - ZTH
 
     steps:

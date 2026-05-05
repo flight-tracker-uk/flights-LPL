@@ -1,4 +1,4 @@
-"""Liverpool Airport (LPL) destinations — April 2026."""
+"""Liverpool Airport (LPL) destinations — May 2026."""
 
 DESTINATIONS = {
     "LPL": {
@@ -14,6 +14,7 @@ DESTINATIONS = {
             "BER": "Berlin",
             "BFS": "Belfast Intl",
             "BGO": "Bergen",
+            "BHD": "Belfast City",
             "BJV": "Bodrum",
             "BOJ": "Bourgas",
             "BUD": "Budapest",
@@ -29,7 +30,6 @@ DESTINATIONS = {
             "GDN": "Gdansk",
             "GVA": "Geneva",
             "HER": "Heraklion",
-            "HRG": "Hurghada",
             "IAS": "Iasi",
             "IBZ": "Ibiza",
             "IOM": "Isle of Man",
@@ -67,7 +67,6 @@ DESTINATIONS = {
             "SNN": "Shannon",
             "SOF": "Sofia",
             "SPU": "Split",
-            "SSH": "Sharm El Sheikh",
             "SZG": "Salzburg",
             "SZZ": "Szczecin",
             "TFS": "Tenerife",
